@@ -17,10 +17,36 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "locales": {
+      "fr": "./translations/infoPlistEnglish.json",
+      "en": "./translations/infoPlistFrench.json"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }        
+      ]
+    ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bubbble.bubbble",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "CFBundleAllowMixedLocalizations": true
+      }
     },
     "android": {
+      "package": "com.bubbble.bubbble",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1,
+      "permissions": [
+        "ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION", "CAMERA", "READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"

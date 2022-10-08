@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "91839987939",
+    "project_id": "bubbble-2022",
+    "storage_bucket": "bubbble-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91839987939:android:0de999dff46b4fbb3885d6",
+        "android_client_info": {
+          "package_name": "com.bubbble.bubbble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91839987939-76t72vbigdafveomvbjt83h07fen7v63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1et5pWMPHhmyuq6AIj4xxpoafFXF_fjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91839987939-76t72vbigdafveomvbjt83h07fen7v63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91839987939-fuqi1f1feshavdeamvt6hs6gj24vb5b9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bubbble.bubbble"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

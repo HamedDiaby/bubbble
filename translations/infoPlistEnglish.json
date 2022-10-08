@@ -1,0 +1,7 @@
+{
+    "NSCameraUsageDescription": "If at some point you wish to verify your profile.",
+    "NSLocationUsageDescription": "So you can find other creatives in your vicinity, based on your geolocalization.",
+    "NSLocationAlwaysUsageDescription": "So you can find other creatives in your vicinity, based on your geolocalization.",
+    "NSLocationWhenInUseUsageDescription": "So you can find other creatives in your vicinity, based on your geolocalization.",
+    "NSPhotoLibraryUsageDescription": "So you can upload photos on your profile."
+}

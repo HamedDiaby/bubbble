@@ -1,0 +1,7 @@
+{
+    "NSCameraUsageDescription": "Pour que tu puisses faire vérifier ton profil si tu le souhaites.",
+    "NSLocationUsageDescription": "Pour que tu puisses trouver d'autres créatifs dans les environs, basé sur ta géolocalisation.",
+    "NSLocationAlwaysUsageDescription": "Pour que tu puisses trouver d'autres créatifs dans les environs, basé sur ta géolocalisation.",
+    "NSLocationWhenInUseUsageDescription": "Pour que tu puisses trouver d'autres créatifs dans les environs, basé sur ta géolocalisation.",
+    "NSPhotoLibraryUsageDescription": "Pour que tu puisses ajouter des photos à ton profil."
+}
